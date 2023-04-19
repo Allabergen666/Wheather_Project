@@ -8,8 +8,6 @@
 
 # from pprint import pprint
 
-# 06ca121e60f2426e12dc0fb7d3f29952
-
 import requests
 from datetime import datetime
 from os import getenv, system
